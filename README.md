@@ -2,4 +2,4 @@
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## These are new changes from GH
+## These are new changes from mi local repo
